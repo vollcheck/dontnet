@@ -95,7 +95,13 @@ namespace dontnet
         {
             // FirstExercise();
             // SecondExercise();
-            ThirdExercise();
+            // ThirdExercise();
+
+            SecondLab.Something(1);
+
+            // ThirdLab.FirstPart();
+            // ThirdLab.SecondPart();
+            // ThirdLab.SecondExercise();
 
             Console.ReadLine(); // or use CTRL+F5
         }
